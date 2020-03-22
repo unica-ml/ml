@@ -28,7 +28,7 @@ _Outcome_
 An understanding of fundamental concepts and methods of machine learning, 
 statistical pattern recognition and its applications. 
 An ability to analyse and evaluate simple algorithms for pattern classification. 
-An ability to design simple algorithms for pattern classification,  
+An ability to design simple algorithms for pattern classification, 
 code them with Python programming language and test them with benchmark data sets.
 
 **Class schedule**

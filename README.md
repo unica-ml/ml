@@ -66,13 +66,13 @@ _Course grading and material (6 CFU)_
 R. O. Duda, P. E. Hart, e D. G. Stork, John Wiley & Sons, 2000
 
 
-## Slides (and Exercises)
+**Slides (and Exercises)**
 
-This is the material of the academic year 2018/2019. Updates will be made available in the due course
+Part 1 - [Introduction to the course](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-01.pdf)
 
-Part 1 - Introduction to the course
-
-Part 2 - Elements of Bayesian Decision Theory (Base Rate Fallacy) (Exercises) 
+Part 2 - [Elements of Bayesian Decision Theory](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02.pdf) 
+([Base Rate Fallacy](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02-base-rate-fallacy.pdf))
+([Exercises](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises.pdf)) 
 
 Part 3 - Introduction to Statistical Classification Techniques
 
@@ -88,9 +88,10 @@ Part 8 - Elements of Performance Evaluation
 
 Part 9 - Elements of Data Clustering (Exercises)
 
-## Laboratory
+**Laboratory**
 
-Part 1 - Python basics
+Part 1 - [Python basics](https://github.com/unica-ml/ml/blob/master/slides/lab/lab01.pdf)
+([Notebook](https://github.com/unica-ml/ml/blob/master/notebooks/lab01.ipynb))
 
 Part 2 - Data Sampling, Visualization, Learning and Classification (Code)
 

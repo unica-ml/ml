@@ -64,3 +64,38 @@ _Course grading and material (6 CFU)_
 - Grading policy = Computer exercise (10/30) + Oral examination (20/30)
 - Reference book: Pattern Classification (2^ edition), 
 R. O. Duda, P. E. Hart, e D. G. Stork, John Wiley & Sons, 2000
+
+
+## Slides (and Exercises)
+
+This is the material of the academic year 2018/2019. Updates will be made available in the due course
+
+Part 1 - Introduction to the course
+
+Part 2 - Elements of Bayesian Decision Theory (Base Rate Fallacy) (Exercises) 
+
+Part 3 - Introduction to Statistical Classification Techniques
+
+Part 4 - Elements of Parametric Techniques (Exercises)
+
+Part 5 - Elements of NonParametric Techniques (Exercises)
+
+Part 6 - Elements of Linear Discriminant Functions (Exercises)
+
+Part 7 - Neural Networks
+
+Part 8 - Elements of Performance Evaluation
+
+Part 9 - Elements of Data Clustering (Exercises)
+
+## Laboratory
+
+Part 1 - Python basics
+
+Part 2 - Data Sampling, Visualization, Learning and Classification (Code)
+
+Part 3 - Performance Evaluation (Code)
+
+Part 4 - Parameter Estimation (Code)
+
+Part 5 - Short seminar on Adversarial Machine Learning (Code)

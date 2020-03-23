@@ -9,7 +9,9 @@
 
 **PhD programme in Electronic and Computer Engineering**
 
-**News:** The course mailing list is active. To subscribe, send an email to 
+**GitHub repository for course material:** [https://github.com/unica-ml/ml](https://github.com/unica-ml/ml)
+
+**Mailing list:** The course mailing list is active. To subscribe, send an email to 
 ml-unica+subscribe (at) googlegroups.com 
 
 **Course objectives and outcome**
@@ -33,9 +35,9 @@ code them with Python programming language and test them with benchmark data set
 
 **Class schedule**
 
-Tuesday, h. 15:00-18:00,  IIB classroom 
-
-Wednesday, h. 15:00-18:00, IID classroom
+- Tuesday, h. 13:50-15:30,  virtual classroom 
+- Wednesday, h. 13:50-15:30, virtual classroom
+- Friday, h. 13:50-15:30, virtual classroom
 
 **Course Outline (6 CFU)**
 1. Introduction (2 hours)

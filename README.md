@@ -90,10 +90,10 @@ Part 9 - Elements of Data Clustering (Exercises)
 
 **Laboratory**
 
-Part 1 - [Python basics](https://github.com/unica-ml/ml/blob/master/slides/lab/lab01.pdf)
+Part 1 - [Python basics](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-01.pdf)
 ([Notebook](https://github.com/unica-ml/ml/blob/master/notebooks/lab01.ipynb))
 
-Part 2 - Data Sampling, Visualization, Learning and Classification (Code)
+Part 2 - [Data Sampling, Visualization, Learning and Classification](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-02.pdf) ([Notebook](https://github.com/unica-ml/ml/blob/master/notebooks/lab02.ipynb))
 
 Part 3 - Performance Evaluation (Code)
 

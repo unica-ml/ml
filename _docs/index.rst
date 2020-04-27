@@ -8,3 +8,4 @@
 
    tutorials/lab01
    tutorials/lab02
+   tutorials/lab03

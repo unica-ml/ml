@@ -72,7 +72,7 @@ Part 1 - [Introduction to the course](https://github.com/unica-ml/ml/blob/master
 
 Part 2 - [Elements of Bayesian Decision Theory](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02.pdf) 
 ([Base Rate Fallacy](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02-base-rate-fallacy.pdf))
-([Exercises with notes](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises.pdf)) ([Exercises](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises-annotated.pdf)) 
+([Exercises](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises.pdf)) ([Exercises with notes](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises-annotated.pdf)) 
 
 Part 3 - [Introduction to Statistical Classification Techniques](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-03.pdf)
 

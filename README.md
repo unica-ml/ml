@@ -95,7 +95,7 @@ Part 1 - [Python basics](https://github.com/unica-ml/ml/blob/master/slides/lab/m
 
 Part 2 - [Data Sampling, Visualization, Learning and Classification](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-02.pdf) ([Notebook 2](https://github.com/unica-ml/ml/blob/master/notebooks/lab02.ipynb))
 
-Part 3 - Performance Evaluation (Notebook 3)
+Part 3 - [Gaussian Classifier](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-03.pdf) ([Notebook 3](https://github.com/unica-ml/ml/blob/master/notebooks/lab03.ipynb))
 
 Part 4 - Parameter Estimation (Notebook 4)
 

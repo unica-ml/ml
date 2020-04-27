@@ -9,3 +9,4 @@
    tutorials/lab01
    tutorials/lab02
    tutorials/lab03
+   tutorials/lab04

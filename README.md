@@ -72,11 +72,11 @@ Part 1 - [Introduction to the course](https://github.com/unica-ml/ml/blob/master
 
 Part 2 - [Elements of Bayesian Decision Theory](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02.pdf) 
 ([Base Rate Fallacy](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02-base-rate-fallacy.pdf))
-([Exercises](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises.pdf)) ([Exercises with notes](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises-annotated.pdf)) 
+([Exercises 2](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises.pdf)) ([Exercises with notes](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises-annotated.pdf)) 
 
 Part 3 - [Introduction to Statistical Classification Techniques](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-03.pdf)
 
-Part 4 - [Elements of Parametric Techniques](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-04.pdf) ([Exercises](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-04-exercises.pdf)) 
+Part 4 - [Elements of Parametric Techniques](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-04.pdf) ([Exercises 4](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-04-exercises.pdf)) 
 
 Part 5 - Elements of NonParametric Techniques (Exercises)
 

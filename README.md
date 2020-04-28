@@ -97,6 +97,6 @@ Part 2 - [Data Sampling, Visualization, Learning and Classification](https://git
 
 Part 3 - [Gaussian Classifier](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-03.pdf) ([Notebook 3](https://github.com/unica-ml/ml/blob/master/notebooks/lab03.ipynb))
 
-Part 4 - Parameter Estimation (Notebook 4)
+Part 4 - Performance Evaluation and Hyperparameter Estimation ([Notebook 4](https://github.com/unica-ml/ml/blob/master/notebooks/lab04.ipynb))
 
 Part 5 - Short seminar on Adversarial Machine Learning (Notebook 5)

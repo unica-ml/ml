@@ -17,5 +17,5 @@
    :maxdepth: 2
    :numbered:
 
-   tutorials/ex1
    tutorials/ml06
+   

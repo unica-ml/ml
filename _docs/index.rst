@@ -19,4 +19,3 @@
 
    tutorials/ex1
    tutorials/ml06
-   tutorials/minimax

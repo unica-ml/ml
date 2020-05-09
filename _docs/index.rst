@@ -11,9 +11,12 @@
    tutorials/lab03
    tutorials/lab04
 
+.. toctree::
    :hidden:
    :caption: Extras
    :maxdepth: 2
    :numbered:
 
+   tutorials/ex1
    tutorials/ml06
+   tutorials/minimax

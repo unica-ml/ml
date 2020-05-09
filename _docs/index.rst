@@ -10,3 +10,10 @@
    tutorials/lab02
    tutorials/lab03
    tutorials/lab04
+
+   :hidden:
+   :caption: Extras
+   :maxdepth: 2
+   :numbered:
+
+   tutorials/ml06

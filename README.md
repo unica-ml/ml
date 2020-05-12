@@ -78,13 +78,13 @@ Part 3 - [Introduction to Statistical Classification Techniques](https://github.
 
 Part 4 - [Elements of Parametric Techniques](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-04.pdf) ([Exercises 4](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-04-exercises.pdf)) 
 
-Part 5 - [Elements of NonParametric Techniques (kNN)](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-05.pdf) (Exercises)
+Part 5 - [Elements of NonParametric Techniques (kNN)](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-05.pdf) ([Exercises 5](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-05-exercises.pdf))
 
 Part 6 - [Elements of Linear Discriminant Functions](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-06.pdf) (Exercises)
 
 Part 7 - Neural Networks
 
-Part 8 - Elements of Performance Evaluation
+Part 8 - [Elements of Performance Evaluation](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-08.pdf)
 
 Part 9 - Elements of Data Clustering (Exercises)
 

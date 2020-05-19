@@ -82,7 +82,7 @@ Part 5 - [Elements of NonParametric Techniques (kNN)](https://github.com/unica-m
 
 Part 6 - [Elements of Linear Discriminant Functions (with Exercises)](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-06.pdf)
 
-Part 7 - Neural Networks
+Part 7 - [Neural Networks](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-07.pdf)
 
 Part 8 - [Elements of Performance Evaluation](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-08.pdf)
 

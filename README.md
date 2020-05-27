@@ -86,7 +86,7 @@ Part 7 - [Neural Networks](https://github.com/unica-ml/ml/blob/master/slides/lec
 
 Part 8 - [Elements of Performance Evaluation](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-08.pdf)
 
-Part 9 - [Elements of Data Clustering](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-09.pdf) ([Slides with notes](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-09-annotated.pdf)) ([Exercises](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-09-exercises.pdf)))
+Part 9 - [Elements of Data Clustering](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-09.pdf) ([Slides with notes](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-09-annotated.pdf)) ([Exercises](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-09-exercises.pdf))
 
 **Laboratory**
 

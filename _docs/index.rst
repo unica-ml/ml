@@ -11,3 +11,4 @@
    tutorials/lab03
    tutorials/lab04
    tutorials/lab05
+   tutorials/lab06

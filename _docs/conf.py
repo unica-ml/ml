@@ -29,7 +29,7 @@ extensions = [
     'm2r',
     'nbsphinx',
     'nbsphinx_link',
-    'sphinx-to-github'
+    'sphinxtogithub'
 ]
 
 # List of patterns, relative to source directory, that match files and

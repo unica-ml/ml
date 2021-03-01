@@ -1,5 +1,5 @@
 ## Machine Learning 
-**Academic Year 2019-2020**
+**Academic Year 2020-2021**
 
 **Instructors:** Prof. Fabio Roli, Dr. Battista Biggio
 
@@ -35,23 +35,20 @@ code them with Python programming language and test them with benchmark data set
 
 **Class schedule**
 
-- Tuesday, h. 13:50-15:30,  virtual classroom 
-- Wednesday, h. 13:50-15:30, virtual classroom
-- Friday, h. 13:50-15:30, virtual classroom
+- Tuesday, h. 15:30-17:55, virtual classroom and room IIB (ex BA)
+- Thursday, h. 17:10-19:25, virtual classroom
 
 **Course Outline (6 CFU)**
 1. Introduction (2 hours)
-2. Bayesian decision theory (6 hours)
-3. Introduction to pattern classification methods (2 hours)
-4. Parametric methods (4 hours)
-5. Non parametric methods and decision trees (4 hours)
-6. Linear discriminant functions and support vector machines (4 hours)
-7. Artificial neural networks (4 hours)
-8. Performance evaluation (2 hours)
-9. Clustering Methods (2 hours)
-10. Adversarial machine learning (2 hours)
-11. Exercises (12 hours)
-12. Python Programming language and computer exercises (16 hours)
+2. Bayesian Decision Theory and Gaussian Pattern Classifiers (10 hours)
+3. Non parametric methods and k-nn classifier (4 hours)
+4. Linear discriminant functions and support vector machines (6 hours)
+5. Artificial neural networks (4 hours)
+6. Performance evaluation (2 hours)
+7. Clustering Methods (2 hours)
+8. Adversarial machine learning (2 hours)
+9. Exercises (12 hours)
+10. Python Programming language and computer exercises (16 hours)
  
 _Course grading and material (6 CFU)_
 
@@ -68,37 +65,9 @@ R. O. Duda, P. E. Hart, e D. G. Stork, John Wiley & Sons, 2000
 
 **Slides (and Exercises)**
 
-Part 1 - [Introduction to the course](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-01.pdf)
+Part 1 - [Introduction](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-01.pdf)
 
-Part 2 - [Elements of Bayesian Decision Theory](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02.pdf) 
-([Base Rate Fallacy](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02-base-rate-fallacy.pdf))
-([Exercises 2](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises.pdf)) ([Exercises with notes](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises-annotated.pdf)) 
+Part 2 - [Bayesian Decision Theory and Gaussian Pattern Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02.pdf) 
 
-Part 3 - [Introduction to Statistical Classification Techniques](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-03.pdf)
-
-Part 4 - [Elements of Parametric Techniques](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-04.pdf) ([Exercises 4](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-04-exercises.pdf)) 
-
-Part 5 - [Elements of NonParametric Techniques (kNN)](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-05.pdf) ([Exercises 5](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-05-exercises.pdf))
-
-Part 6 - [Elements of Linear Discriminant Functions (with Exercises)](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-06.pdf)
-
-Part 7 - [Neural Networks](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-07.pdf)
-
-Part 8 - [Elements of Performance Evaluation](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-08.pdf)
-
-Part 9 - [Elements of Data Clustering](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-09.pdf) ([Slides with notes](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-09-annotated.pdf)) ([Exercises](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-09-exercises.pdf))
 
 **Laboratory**
-
-Part 1 - [Python basics](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-01.pdf)
-([Notebook 1](https://github.com/unica-ml/ml/blob/master/notebooks/lab01.ipynb))
-
-Part 2 - [Data Sampling, Visualization, Learning and Classification](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-02.pdf) ([Notebook 2](https://github.com/unica-ml/ml/blob/master/notebooks/lab02.ipynb))
-
-Part 3 - [Gaussian Classifier](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-03.pdf) ([Notebook 3](https://github.com/unica-ml/ml/blob/master/notebooks/lab03.ipynb))
-
-Part 4 - [Performance Evaluation and Hyperparameter Estimation](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-04.pdf) ([Notebook 4](https://github.com/unica-ml/ml/blob/master/notebooks/lab04.ipynb))
-
-Part 5 - [Neural Networks with PyTorch](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-05.pdf) ([Notebook 5](https://github.com/unica-ml/ml/blob/master/notebooks/lab05.ipynb))
-
-Part 6 - [Adversarial Examples on ImageNet Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-06.pdf) ([Notebook 6](https://github.com/unica-ml/ml/blob/master/notebooks/lab06.ipynb))

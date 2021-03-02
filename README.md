@@ -54,13 +54,13 @@ _Course grading and material (6 CFU)_
 
 - Home computer-exercise assignment + Oral examination
     - You can do intermediate assessments instead of the oral examination
-    - You can do intermediate assessments instead of the 
-    home computer-exercise assignment
     - You can do the oral examination only after the computer exercise
     - Teams of 3 students maximum can do the home computer exercise
 - Grading policy = Computer exercise (10/30) + Oral examination (20/30)
-- Reference book: Pattern Classification (2^ edition), 
-R. O. Duda, P. E. Hart, e D. G. Stork, John Wiley & Sons, 2000
+- Reference books:
+    - Pattern Recognition and Machine Learning, C. Bishop, Springer, 2007
+    - Dive into Deep Learning, A. Zhang, Z. C. Lipton, M. Li, A. J. Smola, 2020, available at: https://d2l.ai
+    - Pattern Classification (2^ edition), R. O. Duda, P. E. Hart, e D. G. Stork, John Wiley & Sons, 2000
 
 
 **Slides (and Exercises)**

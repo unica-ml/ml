@@ -67,7 +67,7 @@ _Course grading and material (6 CFU)_
 
 Part 1 - [Introduction](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-01.pdf)
 
-Part 2 - [Bayesian Decision Theory and Gaussian Pattern Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02.pdf) 
+Part 2 - [Bayesian Decision Theory and Gaussian Pattern Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02.pdf) ([Exercises](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises.pdf))
 
 
 **Laboratory**

@@ -73,5 +73,5 @@ Part 3 - [Elements of Nonparametric Techniques: The kNN Classifier](https://gith
 
 **Laboratory**
 
-Lab. 1 - [Python basics](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-01.pdf) [Notebook Lab. 1](https://github.com/unica-ml/ml/blob/master/notebooks/lab01.ipynb)
+Lab. 1 - [Python basics](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-01.pdf) ([Notebook Lab. 1](https://github.com/unica-ml/ml/blob/master/notebooks/lab01.ipynb))
 

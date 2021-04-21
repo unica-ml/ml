@@ -68,7 +68,7 @@ Part 2 - [Bayesian Decision Theory and Gaussian Pattern Classifiers](https://git
 
 Part 3 - [Elements of Nonparametric Techniques: The kNN Classifier](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-03.pdf) ([Exercises on kNN](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-05-exercises.pdf))
 
-Part 4 - Elements of Linear Discriminant Functions
+Part 4 - [Elements of Linear Discriminant Functions (with Exercises)](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-06.pdf)
 
 Part 5 - Neural Networks
 

@@ -85,6 +85,9 @@ Lab. 2 - [Data Sampling, Visualization, Learning and Classification](https://git
 
 Lab. 3 - [Gaussian Classifier](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-03.pdf) ([Notebook 3](https://github.com/unica-ml/ml/blob/master/notebooks/lab03.ipynb))
 
+Part 4 - [Performance Evaluation and Hyperparameter Estimation](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-04.pdf) ([Notebook 4](https://github.com/unica-ml/ml/blob/master/notebooks/lab04.ipynb))
+
+
 **Tutor**
 
 Session 1 - [Slides-01](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-01.pdf) ([Whiteboard-01](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-01-whiteboard.pdf))

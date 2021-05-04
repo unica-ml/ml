@@ -70,7 +70,7 @@ Part 3 - [Elements of Nonparametric Techniques: The kNN Classifier](https://gith
 
 Part 4 - [Elements of Linear Discriminant Functions (with Exercises)](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-04.pdf)
 
-Part 5 - Neural Networks
+Part 5 - [Neural Networks](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-05.pdf)
 
 Part 6 - [Elements of Performance Evaluation](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-06.pdf)
 

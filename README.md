@@ -93,3 +93,5 @@ Part 4 - [Performance Evaluation and Hyperparameter Estimation](https://github.c
 Session 1 - [Slides-01](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-01.pdf) ([Whiteboard-01](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-01-whiteboard.pdf))
 
 Session 2 - [Slides-02](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-02.pdf) ([Whiteboard-02](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-02-whiteboard.pdf))
+
+Session 3 - [Slides-03](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-03.pdf) ([Whiteboard-03](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-03-whiteboard.pdf)) ([Notebook-03](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-03-python.ipynb))

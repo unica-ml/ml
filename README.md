@@ -87,6 +87,10 @@ Lab. 3 - [Gaussian Classifier](https://github.com/unica-ml/ml/blob/master/slides
 
 Part 4 - [Performance Evaluation and Hyperparameter Estimation](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-04.pdf) ([Notebook 4](https://github.com/unica-ml/ml/blob/master/notebooks/lab04.ipynb))
 
+Part 5 - [Neural Networks with PyTorch](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-05.pdf) ([Notebook 5](https://github.com/unica-ml/ml/blob/master/notebooks/lab05.ipynb))
+
+Part 6 - [Adversarial Examples on ImageNet Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-06.pdf) ([Notebook 6](https://github.com/unica-ml/ml/blob/master/notebooks/lab06.ipynb))
+
 
 **Tutor**
 

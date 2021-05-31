@@ -103,3 +103,5 @@ Session 3 - [Slides-03](https://github.com/unica-ml/ml/blob/master/tutor/ML-tuto
 Session 4 - [Slides-04](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-04.pdf) ([Whiteboard-04](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-04-whiteboard.pdf))
 
 Session 5 - [Slides-05](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-05.pdf) ([Whiteboard-05](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-05-whiteboard.pdf))
+
+Session 6 - [Slides-06](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-06.pdf) ([Whiteboard-06](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-06-whiteboard.pdf))

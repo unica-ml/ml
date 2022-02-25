@@ -1,5 +1,5 @@
 ## Machine Learning 
-**Academic Year 2020-2021**
+**Academic Year 2021-2022**
 
 **Instructors:** Prof. Fabio Roli, Dr. Battista Biggio
 
@@ -32,8 +32,9 @@ code them with Python programming language and test them with benchmark data set
 
 **Class schedule**
 
-- Tuesday, h. 15:30-17:55, virtual classroom and room IIB (ex BA)
-- Thursday, h. 17:10-19:25, virtual classroom
+- Tuesday, h. 12:00-14:00, room N3A (ex LIDIA) and virtual classroom
+- Wednesday, h. 12:00-14:00, room N3B (ex LIDIA) and virtual classroom
+- Thursday, h. 15:00-17:00, room N3A (ex LIDIA) and virtual classroom
 
 **Course Outline (6 CFU)**
 1. Introduction (2 hours)
@@ -59,6 +60,8 @@ _Course grading and material (6 CFU)_
     - Dive into Deep Learning, A. Zhang, Z. C. Lipton, M. Li, A. J. Smola, 2020, available at: https://d2l.ai
     - Pattern Classification (2^ edition), R. O. Duda, P. E. Hart, e D. G. Stork, John Wiley & Sons, 2000
 
+
+**Material from the past course edition (to be updated).**
 
 **Slides (and Exercises)**
 

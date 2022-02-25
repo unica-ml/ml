@@ -61,7 +61,8 @@ _Course grading and material (6 CFU)_
     - Pattern Classification (2^ edition), R. O. Duda, P. E. Hart, e D. G. Stork, John Wiley & Sons, 2000
 
 
-**Material from the past course edition (to be updated).**
+
+**Material from the past course edition (to be updated)**
 
 **Slides (and Exercises)**
 

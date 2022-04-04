@@ -60,11 +60,6 @@ _Course grading and material (6 CFU)_
     - Dive into Deep Learning, A. Zhang, Z. C. Lipton, M. Li, A. J. Smola, 2020, available at: https://d2l.ai
     - Pattern Classification (2^ edition), R. O. Duda, P. E. Hart, e D. G. Stork, John Wiley & Sons, 2000
 
-
---
-
-**Material from the past course edition (to be updated)**
-
 **Slides (and Exercises)**
 
 Part 1 - [Introduction](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-01.pdf)

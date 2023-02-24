@@ -1,15 +1,17 @@
 ## Machine Learning 
 **Academic Year 2022-2023**
+> The course will start on Feb. 28, 2022. 
+> [Teams link.](https://teams.microsoft.com/l/team/19%3aa38b609d4ecd4233a83e0b2aae47a6e8%40thread.tacv2/conversations?groupId=a7fcc3e9-58c2-4d57-8fe0-1a2e7e6c7a9f&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 
-**Instructors:** Prof. Fabio Roli, Dr. Battista Biggio
+**Instructors:** Prof. Fabio Roli, Prof. Battista Biggio
 
 **MSc in Computer Engineering, Cybersecurity and Artificial Intelligence**
 
 **MSc in Electronic Engineering**
 
-**PhD programme in Electronic and Computer Engineering**
+**PhD Program in Electronic and Computer Engineering**
 
-**National PhD programme on Artificial Intelligence**
+**National PhD Program in Artificial Intelligence**
 
 **GitHub repository for course material:** [https://github.com/unica-ml/ml](https://github.com/unica-ml/ml)
 

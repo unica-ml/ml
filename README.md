@@ -1,5 +1,5 @@
 ## Machine Learning 
-**Academic Year 2021-2022**
+**Academic Year 2022-2023**
 
 **Instructors:** Prof. Fabio Roli, Dr. Battista Biggio
 
@@ -8,6 +8,8 @@
 **MSc in Electronic Engineering**
 
 **PhD programme in Electronic and Computer Engineering**
+
+**National PhD programme on Artificial Intelligence**
 
 **GitHub repository for course material:** [https://github.com/unica-ml/ml](https://github.com/unica-ml/ml)
 
@@ -32,9 +34,8 @@ code them with Python programming language and test them with benchmark data set
 
 **Class schedule**
 
-- Tuesday, h. 12:00-14:00, room N3A (ex LIDIA) and virtual classroom
-- Wednesday, h. 12:00-14:00, room N3B (ex LIDIA) and virtual classroom
-- Thursday, h. 15:00-17:00, room N3A (ex LIDIA) and virtual classroom
+- Tuesday, h. 15:00-18:00, room I_IB (ex aula BA) 
+- Wednesday, h. 12:00-14:00, room G_TA (ex aula Mocci)
 
 **Course Outline (6 CFU)**
 1. Introduction (2 hours)
@@ -51,8 +52,7 @@ code them with Python programming language and test them with benchmark data set
 _Course grading and material (6 CFU)_
 
 - Home computer-exercise assignment + Oral examination
-    - You can do intermediate assessments instead of the oral examination
-    - You can do the oral examination only after the computer exercise
+    - You can do the written assessment at the end of the course instead of the oral examination
     - Teams of 3 students maximum can do the home computer exercise
 - Grading policy = Computer exercise (10/30) + Oral examination (20/30)
 - Reference books:

@@ -64,7 +64,7 @@ _Course grading and material (6 CFU)_
 
 **Slides (and Exercises)**
 
-Part 1 - Introduction
+Part 1 - [Introduction](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-01.pdf)
 
 Part 2 - Bayesian Decision Theory and Gaussian Pattern Classifiers (Exercises on Bayesian Classifiers) (Exercises on Gaussian Classifier) 
 

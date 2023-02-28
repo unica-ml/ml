@@ -64,19 +64,19 @@ _Course grading and material (6 CFU)_
 
 **Slides (and Exercises)**
 
-Part 1 - [Introduction](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-01.pdf)
+Part 1 - Introduction
 
-Part 2 - [Bayesian Decision Theory and Gaussian Pattern Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02.pdf) ([Exercises on Bayesian Classifiers](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises.pdf)) ([Exercises on Gaussian Classifier](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises-GC.pdf)) ([Assessment](https://github.com/unica-ml/ml/blob/master/exercises/1st-intermediate-assessment-2018.pdf))
+Part 2 - Bayesian Decision Theory and Gaussian Pattern Classifiers (Exercises on Bayesian Classifiers) (Exercises on Gaussian Classifier) 
 
-Part 3 - [Elements of Nonparametric Techniques: The kNN Classifier](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-03.pdf) ([Exercises on kNN](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-03-exercises.pdf))
+Part 3 - Elements of Nonparametric Techniques: The kNN Classifier (Exercises on kNN)
 
-Part 4 - [Elements of Linear Discriminant Functions (with Exercises)](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-04.pdf)
+Part 4 - Elements of Linear Discriminant Functions 
 
-Part 5 - [Neural Networks](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-05.pdf)
+Part 5 - Neural Networks
 
-Part 6 - [Elements of Performance Evaluation](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-06.pdf)
+Part 6 - Elements of Performance Evaluation
 
-Part 7 - [Elements of Data Clustering](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-07.pdf) ([Exercises on Clustering](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-07-exercises.pdf))
+Part 7 - Elements of Data Clustering (Exercises on Clustering)
 
 
 **Laboratory**
@@ -94,7 +94,7 @@ Part 5 - [Neural Networks with PyTorch](https://github.com/unica-ml/ml/blob/mast
 Part 6 - [Adversarial Examples on ImageNet Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-06.pdf) ([Notebook 6](https://github.com/unica-ml/ml/blob/master/notebooks/lab06.ipynb))
 
 
-**Tutor**
+**Tutor (2021/2022)**
 
 Session 1 - [Slides-01](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-01.pdf) ([Whiteboard-01](https://github.com/unica-ml/ml/blob/master/tutor/ML-tutor-01-whiteboard.pdf))
 

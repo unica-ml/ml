@@ -66,7 +66,7 @@ _Course grading and material (6 CFU)_
 
 Part 1 - [Introduction](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-01.pdf)
 
-Part 2 - [Bayesian Decision Theory and Gaussian Pattern Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02.pdf) ([Exercises on Bayesian Classifiers](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises.pdf)) ([Exercises on Gaussian Classifier](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises-GC.pdf)) ([Assessment](https://github.com/unica-ml/ml/blob/master/exercises/1st-intermediate-assessment-2018.pdf))
+Part 2 - [Bayesian Decision Theory and Gaussian Pattern Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02.pdf) ([Exercises on Bayesian Classifiers](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises.pdf)) ([Exercises on Gaussian Classifier](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises-GC.pdf)) ([Assessment](https://github.com/unica-ml/ml/blob/master/exams/20180419-pre1.pdf))
 
 Part 3 - Elements of Nonparametric Techniques: The kNN Classifier (Exercises on kNN)
 

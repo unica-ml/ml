@@ -70,13 +70,13 @@ Part 2 - [Bayesian Decision Theory and Gaussian Pattern Classifiers](https://git
 
 Part 3 - [Elements of Nonparametric Techniques: The kNN Classifier](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-03.pdf) ([Exercises on kNN](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-03-exercises.pdf))
 
-Part 4 - Elements of Linear Discriminant Functions 
+Part 4 - [Elements of Linear Discriminant Functions (with Exercises)](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-04.pdf)
 
-Part 5 - Neural Networks
+Part 5 - [Neural Networks](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-05.pdf)
 
-Part 6 - Elements of Performance Evaluation
+Part 6 - [Elements of Performance Evaluation](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-06.pdf)
 
-Part 7 - Elements of Data Clustering (Exercises on Clustering)
+Part 7 - [Elements of Data Clustering](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-07.pdf) ([Exercises on Clustering](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-07-exercises.pdf))
 
 
 **Laboratory**

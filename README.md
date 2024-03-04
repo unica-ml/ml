@@ -1,7 +1,7 @@
 ## Machine Learning 
 **Academic Year 2022-2023**
-> The course will start on Feb. 28, 2022. 
-> [Teams link.](https://teams.microsoft.com/l/team/19%3aa38b609d4ecd4233a83e0b2aae47a6e8%40thread.tacv2/conversations?groupId=a7fcc3e9-58c2-4d57-8fe0-1a2e7e6c7a9f&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
+> The course will start on Mar. 5, 2024. 
+> [Teams link.](https://teams.microsoft.com/l/team/19%3Aa38b609d4ecd4233a83e0b2aae47a6e8%40thread.tacv2/conversations?groupId=a7fcc3e9-58c2-4d57-8fe0-1a2e7e6c7a9f&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 
 **Instructors:** Prof. Fabio Roli, Prof. Battista Biggio
 
@@ -10,8 +10,6 @@
 **MSc in Electronic Engineering**
 
 **PhD Program in Electronic and Computer Engineering**
-
-**National PhD Program in Artificial Intelligence**
 
 **GitHub repository for course material:** [https://github.com/unica-ml/ml](https://github.com/unica-ml/ml)
 
@@ -37,7 +35,7 @@ code them with Python programming language and test them with benchmark data set
 **Class schedule**
 
 - Tuesday, h. 15:00-18:00, room I_IB (ex aula BA) 
-- Wednesday, h. 12:00-14:00, room G_TA (ex aula Mocci)
+- Wednesday, h. 12:00-14:00, room I_ID (ex aula AN)
 
 **Course Outline (6 CFU)**
 1. Introduction (2 hours)
@@ -53,10 +51,10 @@ code them with Python programming language and test them with benchmark data set
  
 _Course grading and material (6 CFU)_
 
-- Home computer-exercise assignment + Oral examination
+- Oral examination (1) + Home computer-exercise assignment (2)
     - You can do the written assessment at the end of the course instead of the oral examination
     - Teams of 3 students maximum can do the home computer exercise
-- Grading policy = Computer exercise (10/30) + Oral examination (20/30)
+- Grading policy = Oral examination (20/30) + Computer exercise (10/30) 
 - Reference books:
     - Pattern Recognition and Machine Learning, C. Bishop, Springer, 2007
     - Dive into Deep Learning, A. Zhang, Z. C. Lipton, M. Li, A. J. Smola, 2020, available at: https://d2l.ai

@@ -1,5 +1,5 @@
 ## Machine Learning 
-**Academic Year 2022-2023**
+**Academic Year 2023-2024**
 > The course will start on Mar. 5, 2024. 
 > [Teams link.](https://teams.microsoft.com/l/team/19%3Aa38b609d4ecd4233a83e0b2aae47a6e8%40thread.tacv2/conversations?groupId=a7fcc3e9-58c2-4d57-8fe0-1a2e7e6c7a9f&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 

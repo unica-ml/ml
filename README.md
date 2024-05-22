@@ -92,6 +92,9 @@ Part 5 - [Neural Networks with PyTorch](https://github.com/unica-ml/ml/blob/mast
 
 Part 6 - [Adversarial Examples on ImageNet Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-06.pdf) ([Notebook 6](https://github.com/unica-ml/ml/blob/master/notebooks/lab06.ipynb))
 
+**Seminars**
+
+[Introduction to LLMs](https://github.com/unica-ml/ml/blob/master/seminars/Introduction_to_LLMs-seminar.pdf)
 
 **Tutor (2021/2022)**
 

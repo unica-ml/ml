@@ -76,6 +76,7 @@ Part 6 - [Elements of Performance Evaluation](https://github.com/unica-ml/ml/blo
 
 Part 7 - [Elements of Data Clustering](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-07.pdf) ([Exercises on Clustering](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-07-exercises.pdf))
 
+Part 8 - [PyTorch](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-08.pdf) ([Full PyTorch course](https://unica-ml.github.io/dlcv/))
 
 **Laboratory**
 
@@ -91,6 +92,9 @@ Part 5 - [Neural Networks with PyTorch](https://github.com/unica-ml/ml/blob/mast
 
 Part 6 - [Adversarial Examples on ImageNet Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-06.pdf) ([Notebook 6](https://github.com/unica-ml/ml/blob/master/notebooks/lab06.ipynb))
 
+**Seminars**
+
+[Introduction to LLMs](https://github.com/unica-ml/ml/blob/master/seminars/Introduction_to_LLMs-seminar.pdf)
 
 **Tutor (2021/2022)**
 

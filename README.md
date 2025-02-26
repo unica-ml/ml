@@ -1,9 +1,9 @@
 ## Machine Learning 
-**Academic Year 2023-2024**
-> The course will start on Mar. 5, 2024. 
+**Academic Year 2024-2025**
+> The course will start on Mar. 5, 2025. 
 > [Teams link.](https://teams.microsoft.com/l/team/19%3Aa38b609d4ecd4233a83e0b2aae47a6e8%40thread.tacv2/conversations?groupId=a7fcc3e9-58c2-4d57-8fe0-1a2e7e6c7a9f&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 
-**Instructors:** Prof. Fabio Roli, Prof. Battista Biggio
+**Instructor:** Prof. Battista Biggio
 
 **MSc in Computer Engineering, Cybersecurity and Artificial Intelligence**
 
@@ -34,10 +34,12 @@ code them with Python programming language and test them with benchmark data set
 
 **Class schedule**
 
-- Tuesday, h. 15:00-18:00, room I_IB (ex aula BA) 
-- Wednesday, h. 12:00-14:00, room I_ID (ex aula AN)
+- Wednesday, h. 9:00-11:00, room I_IB (ex Aula BA)
+- Thursday, h. 12:00-14:00, room I_IB (ex Aula BA)
+- Friday, h. 12:00-14:00, room I_IB (ex Aula BA)
 
-**Course Outline (6 CFU)**
+
+**Course Outline (7 CFU)**
 1. Introduction (2 hours)
 2. Bayesian Decision Theory and Gaussian Pattern Classifiers (10 hours)
 3. Non parametric methods and k-nn classifier (4 hours)
@@ -49,7 +51,7 @@ code them with Python programming language and test them with benchmark data set
 9. Exercises (12 hours)
 10. Python Programming language and computer exercises (16 hours)
  
-_Course grading and material (6 CFU)_
+_Course grading and material (7 CFU)_
 
 - Oral examination (1) + Home computer-exercise assignment (2)
     - You can do the written assessment at the end of the course instead of the oral examination

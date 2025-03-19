@@ -42,7 +42,7 @@ code them with Python programming language and test them with benchmark data set
 **Course Outline (7 CFU)**
 1. Introduction (2 hours)
 2. Bayesian Decision Theory and Gaussian Pattern Classifiers (10 hours)
-3. Non parametric methods and k-nn classifier (4 hours)
+3. Non-parametric methods and k-NN classifier (4 hours)
 4. Linear discriminant functions and support vector machines (6 hours)
 5. Artificial neural networks (4 hours)
 6. Performance evaluation (2 hours)
@@ -64,7 +64,7 @@ _Course grading and material (7 CFU)_
 
 **Slides (and Exercises)**
 
-Part 1 - [Introduction](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-01.pdf)
+Part 1 - [Introduction](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-01.pdf) (updated)
 
 Part 2 - [Bayesian Decision Theory and Gaussian Pattern Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02.pdf) ([Exercises on Bayesian Classifiers](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises.pdf)) ([Exercises on Gaussian Classifier](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises-GC.pdf)) ([Assessment](https://github.com/unica-ml/ml/blob/master/exams/20180419-pre1.pdf))
 

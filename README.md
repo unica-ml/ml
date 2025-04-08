@@ -48,6 +48,7 @@ code them with Python programming language and test them with benchmark data set
 6. Performance evaluation (2 hours)
 7. Clustering Methods (2 hours)
 8. Adversarial machine learning (2 hours)
+9. Deep Learning (10 hours)
 9. Exercises (12 hours)
 10. Python Programming language and computer exercises (16 hours)
  
@@ -70,7 +71,7 @@ Part 2 - [Bayesian Decision Theory and Gaussian Pattern Classifiers](https://git
 
 Part 3 - [Elements of Nonparametric Techniques: The kNN Classifier](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-03.pdf) (updated) ([Exercises on kNN](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-03-exercises.pdf))
 
-Part 4 - [Elements of Linear Discriminant Functions (with Exercises)](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-04.pdf)
+Part 4 - [Elements of Linear Discriminant Functions (with Exercises)](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-04.pdf) (updated)
 
 Part 5 - [Neural Networks](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-05.pdf)
 

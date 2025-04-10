@@ -79,7 +79,9 @@ Part 6 - [Elements of Performance Evaluation](https://github.com/unica-ml/ml/blo
 
 Part 7 - [Elements of Data Clustering](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-07.pdf) ([Exercises on Clustering](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-07-exercises.pdf))
 
-Part 8 - [PyTorch](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-08.pdf) ([Full PyTorch course](https://unica-ml.github.io/dlcv/))
+Part 8 - [Dimensionality Reduction via PCA and t-SNE](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-08.pdf) (new!)
+
+Part 9 - [PyTorch](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-08.pdf) ([Full PyTorch course](https://unica-ml.github.io/dlcv/))
 
 **Laboratory**
 

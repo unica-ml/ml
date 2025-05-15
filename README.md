@@ -81,7 +81,7 @@ Part 7 - [Elements of Data Clustering](https://github.com/unica-ml/ml/blob/maste
 
 Part 8 - [Dimensionality Reduction via PCA and t-SNE](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-08.pdf) (new!)
 
-Part 9 - [PyTorch](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-09.pdf) ([Full PyTorch course](https://unica-ml.github.io/dlcv/))
+Part 9 - [PyTorch](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-09.pdf) ([Full PyTorch course](https://unica-ml.github.io/dlcv/))([Noteboook](https://colab.research.google.com/drive/1Hz8Ig0HBpkec52RMnSa0lPuEd6JYvpy5?usp=sharing))
 
 **Laboratory**
 

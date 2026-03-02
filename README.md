@@ -1,13 +1,13 @@
 ## Machine Learning 
-**Academic Year 2024-2025**
-> The course will start on Mar. 5, 2025. 
+**Academic Year 2025-2026**
+> The course will start on Mar. 4, 2026. 
 > [Teams link.](https://teams.microsoft.com/l/team/19%3Aa38b609d4ecd4233a83e0b2aae47a6e8%40thread.tacv2/conversations?groupId=a7fcc3e9-58c2-4d57-8fe0-1a2e7e6c7a9f&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 
 **Instructor:** Prof. Battista Biggio
 
-**MSc in Computer Engineering, Cybersecurity and Artificial Intelligence**
+**MSc in Computer Engineering, Cybersecurity and Artificial Intelligence (70 hours)**
 
-**MSc in Electronic Engineering**
+**MSc in Electronic Engineering (60 hours)**
 
 **PhD Program in Electronic and Computer Engineering**
 
@@ -34,9 +34,9 @@ code them with Python programming language and test them with benchmark data set
 
 **Class schedule**
 
-- Wednesday, h. 9:00-11:00, room I_IB (ex Aula BA)
-- Thursday, h. 12:00-14:00, room I_IB (ex Aula BA)
-- Friday, h. 12:00-14:00, room I_IB (ex Aula BA)
+- Wednesday, h. 8:30-10:30, room I_IB (ex Aula BA)
+- Thursday, h. 11:30-13:30, room I_IB (ex Aula BA)
+- Friday, h. 11:30-13:30, room I_ID (ex Aula AN)
 
 
 **Course Outline (7 CFU)**
@@ -48,11 +48,11 @@ code them with Python programming language and test them with benchmark data set
 6. Performance evaluation (2 hours)
 7. Clustering Methods (2 hours)
 8. Adversarial machine learning (2 hours)
-9. Deep Learning (10 hours)
+9. Deep Learning (10 hours) [this part is not included for MSc EEng, as they have 6 CFU]
 9. Exercises (12 hours)
 10. Python Programming language and computer exercises (16 hours)
  
-_Course grading and material (7 CFU)_
+_Course grading and material_
 
 - Oral examination (1) + Home computer-exercise assignment (2)
     - You can do the written assessment at the end of the course instead of the oral examination
@@ -65,13 +65,13 @@ _Course grading and material (7 CFU)_
 
 **Slides (and Exercises)**
 
-Part 1 - [Introduction](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-01.pdf) (updated)
+Part 1 - [Introduction](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-01.pdf) 
 
 Part 2 - [Bayesian Decision Theory and Gaussian Pattern Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-02.pdf) ([Exercises on Bayesian Classifiers](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises.pdf)) ([Exercises on Gaussian Classifier](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-02-exercises-GC.pdf)) ([Assessment](https://github.com/unica-ml/ml/blob/master/exams/20180419-pre1.pdf))
 
-Part 3 - [Elements of Nonparametric Techniques: The kNN Classifier](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-03.pdf) (updated) ([Exercises on kNN](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-03-exercises.pdf))
+Part 3 - [Elements of Nonparametric Techniques: The kNN Classifier](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-03.pdf)([Exercises on kNN](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-03-exercises.pdf))
 
-Part 4 - [Elements of Linear Discriminant Functions (with Exercises)](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-04.pdf) (updated)
+Part 4 - [Elements of Linear Discriminant Functions (with Exercises)](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-04.pdf)
 
 Part 5 - [Neural Networks](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-05.pdf)
 
@@ -79,7 +79,7 @@ Part 6 - [Elements of Performance Evaluation](https://github.com/unica-ml/ml/blo
 
 Part 7 - [Elements of Data Clustering](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-07.pdf) ([Exercises on Clustering](https://github.com/unica-ml/ml/blob/master/exercises/ml-part-07-exercises.pdf))
 
-Part 8 - [Dimensionality Reduction via PCA and t-SNE](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-08.pdf) (new!)
+Part 8 - [Dimensionality Reduction via PCA and t-SNE](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-08.pdf)
 
 Part 9 - [PyTorch](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-09.pdf) ([Full PyTorch course](https://unica-ml.github.io/dlcv/))([Noteboook](https://colab.research.google.com/drive/1Hz8Ig0HBpkec52RMnSa0lPuEd6JYvpy5?usp=sharing))
 

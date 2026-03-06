@@ -36,7 +36,7 @@ code them with Python programming language and test them with benchmark data set
 
 - Wednesday, h. 8:30-10:30, room I_IB (ex Aula BA)
 - Thursday, h. 11:30-13:30, room I_IB (ex Aula BA)
-- Friday, h. 11:30-13:30, room I_ID (ex Aula AN)
+- Friday, h. 11:30-13:30, room I_IB (ex Aula BA)
 
 
 **Course Outline (7 CFU)**

@@ -83,6 +83,8 @@ Part 8 - [Dimensionality Reduction via PCA and t-SNE](https://github.com/unica-m
 
 Part 9 - [PyTorch](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-09.pdf) ([Full PyTorch course](https://unica-ml.github.io/dlcv/))([Noteboook](https://colab.research.google.com/drive/1Hz8Ig0HBpkec52RMnSa0lPuEd6JYvpy5?usp=sharing))
 
+Part 10 - [Transformers and LLMs](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-10.pdf) ([Notebook](https://github.com/unica-ml/ml/blob/master/notebooks/Transformers_LLMs.ipynb))
+
 **Laboratory**
 
 Lab. 1 - [Python basics](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-01.pdf) ([Notebook 1](https://github.com/unica-ml/ml/blob/master/notebooks/lab01.ipynb))
@@ -97,9 +99,6 @@ Part 5 - [Neural Networks with PyTorch](https://github.com/unica-ml/ml/blob/mast
 
 Part 6 - [Adversarial Examples on ImageNet Classifiers](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-06.pdf) ([Notebook 6](https://github.com/unica-ml/ml/blob/master/notebooks/lab06.ipynb))
 
-**Seminars**
-
-[Introduction to LLMs](https://github.com/unica-ml/ml/blob/master/seminars/Introduction_to_LLMs-seminar.pdf)
 
 **Tutor (2021/2022)**
 

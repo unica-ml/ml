@@ -85,6 +85,11 @@ Part 9 - [PyTorch](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml
 
 Part 10 - [Transformers and LLMs](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-10.pdf) ([Notebook](https://github.com/unica-ml/ml/blob/master/notebooks/Transformers_LLMs.ipynb))
 
+Part 11 - [LLM Refusal and Activation Steering](https://github.com/unica-ml/ml/blob/master/slides/lectures/ml-part-11-refusal.pdf)
+
+Seminar on Machine Learning Security - [Slides](https://github.com/unica-ml/ml/blob/master/seminars/MLSec-seminar.pdf)
+
+
 **Laboratory**
 
 Lab. 1 - [Python basics](https://github.com/unica-ml/ml/blob/master/slides/lab/ml-lab-01.pdf) ([Notebook 1](https://github.com/unica-ml/ml/blob/master/notebooks/lab01.ipynb))
